@@ -10,7 +10,7 @@
  *
  * @author bnastov
  */
-class apicaller {
+class twitterApicaller {
     
     // Method: POST, PUT, GET etc
     // Data: array("param" => "value") ==> index.php?param=value
