@@ -39,17 +39,14 @@ and open the template in the editor.
                 );
             });
         </script>
-        
-        <blockquote class="twitter-tweet" lang="en"><p lang="sl" dir="ltr">tvit</p>&mdash; Blazo (@NastovB) <a href="https://twitter.com/NastovB/status/602414658197270528">May 24, 2015</a></blockquote>
-<script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
 
-        <?php
-        
+        <blockquote class="twitter-tweet" lang="en">
+            <p lang="sl" dir="ltr">tvit</p>&mdash; Blazo (@NastovB) 
+            <a href="https://twitter.com/NastovB/status/602414658197270528">May 24, 2015</a>
+        </blockquote>
+        <script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
 
-        
-        
-        
-// put your code here
-        ?>
-    </body>
+<blockquote class="twitter-tweet" align="left" width="350"><p lang="fr" dir="ltr">MERCI MONTPELLIER ♡ 4 nouveaux copains s'ajoutent à la famille aujourd'hui ! Merci de votre super… <a href="https://t.co/YBOMhvqiYF">https://t.co/YBOMhvqiYF</a></p>— Marie ♡ (@enjoyphoenix) <a href="https://twitter.com/enjoyphoenix/status/608687451054436352">June 10, 2015</a></blockquote>\n<script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
+
+</body>
 </html>

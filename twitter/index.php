@@ -27,12 +27,13 @@ $statuses = $connection->get("search/tweets", array("q" => "", "geocode" => "46.
 
 foreach ($statuses as $status) {
     foreach ($status as $s) {
-        echo $s->text . '<br/>';
+        $twitt = $connection->get("statuses/oembed", array("id" => $s->id_str));
+        echo $twitt->html;
     }
 }
 
 
-print_r($statuses);
+//print_r($statuses);
 ?>
 
         
